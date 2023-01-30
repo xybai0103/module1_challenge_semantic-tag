@@ -18,6 +18,10 @@ The following image demonstrates the website appearance:
 
 ![ScreenShot](./assets/images/01-html-css-git-homework-demo.png)
 
+## Link to the website
+
+https://xybai0103.github.io/module1_challenge_semantic-tag/
+
 ## Credits
 
 N/A
