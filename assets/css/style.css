@@ -20,6 +20,7 @@ header h1 {
     font-size: 48px;
 }
 
+/*making the three letters "seo" darker*/
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -46,6 +47,7 @@ a {
     text-decoration: none;
 }
 
+/*adding a hero image below header*/
 .hero-image {
     height: 800px;
     width: 100%;
@@ -55,6 +57,7 @@ a {
     background-position: center;
 }
 
+/*main content below hero image*/
 .content {
     width: 75%;
     display: inline-block;
@@ -89,6 +92,7 @@ a {
     font-size: 36px;
 }
 
+/*content in the sidebar below hero image*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +120,7 @@ a {
     max-width: 150px;
 }
 
+/*font-size for all the paragraphs*/
 p {
     font-size: 16px;
 }
