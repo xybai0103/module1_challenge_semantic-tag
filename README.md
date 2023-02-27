@@ -20,7 +20,7 @@ The following image demonstrates the website appearance:
 
 ## Link to the website
 
-https://xybai0103.github.io/module1_challenge_semantic-tag/
+https://xybai0103.github.io/semantic-tag-for-accessibility/
 
 ## Credits
 
